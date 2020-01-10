@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Lin\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lin\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_XIL.575525620.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Unity_Projects\Frames\XIL" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="hotScripts" t="Include">
+          <e p="MonoSerialTest.cs" t="Include" />
+          <e p="TestSer.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Editor.asmdef" t="Include" />
+            <e p="Serialize" t="Include">
+              <e p="Editor" t="Include">
+                <e p="AnyTypeEditor.cs" t="Include" />
+                <e p="ArrayTypeEditor.cs" t="Include" />
+                <e p="BaseTypeEditor.cs" t="Include" />
+                <e p="EditorPageBtn.cs" t="Include" />
+                <e p="IListTypeEditor.cs" t="Include" />
+                <e p="ILMonoBehaviourEditor.cs" t="Include" />
+                <e p="ILMonoEditor.cs" t="Include" />
+                <e p="TypeEditor.cs" t="Include" />
+              </e>
+            </e>
+            <e p="XILEditor" t="Include">
+              <e p="ILHotfix" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="AutoHotTemplate.cs" t="Include" />
+                  <e p="AutoRegILType.cs" t="Include" />
+                  <e p="AutoRegILType_GetClassName.cs" t="Include" />
+                  <e p="ExportIL.cs" t="Include" />
+                  <e p="GenerateCLRBinding.cs" t="Include" />
+                  <e p="GeneratorIL.cs" t="Include" />
+                  <e p="GeneratorObjects.cs" t="Include" />
+                  <e p="GenHotfixDelegate.cs" t="Include" />
+                  <e p="HelpEditor.cs" t="Include" />
+                  <e p="Hotfix.cs" t="Include" />
+                  <e p="ILTools.cs" t="Include" />
+                  <e p="MacroDefine.cs" t="Include" />
+                  <e p="OpenHotMacro.cs" t="Include" />
+                  <e p="TemplatesMarco.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Hotfix" t="Include">
+            <e p="Extension.cs" t="Include" />
+            <e p="hotApp.cs" t="Include" />
+            <e p="Hotfix.asmdef" t="Include" />
+            <e p="HotHelloWorld.cs" t="Include" />
+            <e p="HotTemplate.cs" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="Auto" t="Include">
+              <e p="GenDelegateBridge_0.cs" t="Include" />
+              <e p="GenObjects_0.cs" t="Include" />
+            </e>
+            <e p="HelloWorld.cs" t="Include" />
+            <e p="PathHelper.cs" t="Include" />
+            <e p="Runtime.asmdef" t="Include" />
+            <e p="Template.cs" t="Include" />
+            <e p="XIL" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="BehaviourAction.cs" t="Include" />
+                <e p="CacheType.cs" t="Include" />
+                <e p="Custom" t="Include">
+                  <e p="ILLog.cs" t="Include" />
+                  <e p="UnityEngine_Debug_Binding.cs" t="Include" />
+                </e>
+                <e p="Help.cs" t="Include" />
+                <e p="hotMgr.cs" t="Include" />
+                <e p="ILHotfix" t="Include">
+                  <e p="CoroutineAdapter.cs" t="Include" />
+                  <e p="DelegateBridge.cs" t="Include" />
+                  <e p="ILHotfix.cs" t="Include" />
+                  <e p="ObjectArrayPools.cs" t="Include" />
+                  <e p="Objects.cs" t="Include" />
+                  <e p="ResLoad.cs" t="Include" />
+                </e>
+                <e p="Log.cs" t="Include" />
+                <e p="RefOutParam.cs" t="Include" />
+                <e p="RefType.cs" t="Include" />
+                <e p="RefType_InvokeMethod.cs" t="Include" />
+                <e p="ResourcesPath.cs" t="Include" />
+                <e p="Serialize" t="Include">
+                  <e p="AnyTypeSerialize.cs" t="Include" />
+                  <e p="ArrayAnyType.cs" t="Include" />
+                  <e p="BaseTypeSerialize.cs" t="Include" />
+                  <e p="BaseTypeSerializeArray.cs" t="Include" />
+                  <e p="DllInitByEditor.cs" t="Include" />
+                  <e p="IListAnyType.cs" t="Include" />
+                  <e p="ILMonoBehaviour.cs" t="Include" />
+                  <e p="MonoSerialize.cs" t="Include" />
+                  <e p="WRStream.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="ThirdPlugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="CLRBinding" t="Include">
+              <e p="BindingCodeGenerator.cs" t="Include" />
+              <e p="BindingGeneratorExtensions.cs" t="Include" />
+              <e p="CommonBindingGenerator.cs" t="Include" />
+              <e p="ConstructorBindingGenerator.cs" t="Include" />
+              <e p="FieldBindingGenerator.cs" t="Include" />
+              <e p="MethodBindingGenerator.cs" t="Include" />
+              <e p="ValueTypeBindingGenerator.cs" t="Include" />
+            </e>
+            <e p="ThirdPlugins.Editor.asmdef" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="ILSource" t="Include">
+              <e p="EditorClass.cs" t="Include" />
+              <e p="ILRuntime" t="Include">
+                <e p="CLR" t="Include">
+                  <e p="Method" t="Include">
+                    <e p="CLRMethod.cs" t="Include" />
+                    <e p="ExceptionHandler.cs" t="Include" />
+                    <e p="ILMethod.cs" t="Include" />
+                    <e p="IMethod.cs" t="Include" />
+                  </e>
+                  <e p="TypeSystem" t="Include">
+                    <e p="CLRType.cs" t="Include" />
+                    <e p="ILGenericParameterType.cs" t="Include" />
+                    <e p="ILType.cs" t="Include" />
+                    <e p="IType.cs" t="Include" />
+                  </e>
+                  <e p="Utils" t="Include">
+                    <e p="Extensions.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Other" t="Include">
+                  <e p="ByReferenceKeyComparer.cs" t="Include" />
+                  <e p="DelegateExportAttribute.cs" t="Include" />
+                  <e p="NeedAdaptorAttribute.cs" t="Include" />
+                  <e p="ThreadSafeDictionary.cs" t="Include" />
+                  <e p="UncheckedList.cs" t="Include" />
+                </e>
+                <e p="Reflection" t="Include">
+                  <e p="Extensions.cs" t="Include" />
+                  <e p="ILRuntimeConstructorInfo.cs" t="Include" />
+                  <e p="ILRuntimeFieldInfo.cs" t="Include" />
+                  <e p="ILRuntimeMethodInfo.cs" t="Include" />
+                  <e p="ILRuntimeParameterInfo.cs" t="Include" />
+                  <e p="ILRuntimePropertyInfo.cs" t="Include" />
+                  <e p="ILRuntimeType.cs" t="Include" />
+                  <e p="ILRuntimeWrapperType.cs" t="Include" />
+                </e>
+                <e p="Runtime" t="Include">
+                  <e p="Adaptors" t="Include">
+                    <e p="CLRCrossBindingAdaptors.cs" t="Include" />
+                  </e>
+                  <e p="Debugger" t="Include">
+                    <e p="BreakPointContext.cs" t="Include" />
+                    <e p="BreakpointInfo.cs" t="Include" />
+                    <e p="DebuggerServer" t="Include">
+                      <e p="DebuggerServer.cs" t="Include" />
+                    </e>
+                    <e p="DebugMessageType.cs" t="Include" />
+                    <e p="DebugService.cs" t="Include" />
+                    <e p="DebugSocket.cs" t="Include" />
+                    <e p="Protocol" t="Include">
+                      <e p="CSBindBreakpoint.cs" t="Include" />
+                      <e p="CSDeleteBreakpoint.cs" t="Include" />
+                      <e p="CSEnumChildren.cs" t="Include" />
+                      <e p="CSExecute.cs" t="Include" />
+                      <e p="CSResolveIndexer.cs" t="Include" />
+                      <e p="CSResolveVariable.cs" t="Include" />
+                      <e p="CSStep.cs" t="Include" />
+                      <e p="SCAttachResult.cs" t="Include" />
+                      <e p="SCBindBreakpointResult.cs" t="Include" />
+                      <e p="SCBreakpointHit.cs" t="Include" />
+                      <e p="SCEnumChildrenResult.cs" t="Include" />
+                      <e p="SCModuleLoaded.cs" t="Include" />
+                      <e p="SCResolveVariableResult.cs" t="Include" />
+                      <e p="SCStepComplete.cs" t="Include" />
+                      <e p="SCThreadStarted.cs" t="Include" />
+                    </e>
+                    <e p="StackFrameInfo.cs" t="Include" />
+                    <e p="StepTypes.cs" t="Include" />
+                    <e p="VariableInfo.cs" t="Include" />
+                  </e>
+                  <e p="Enviorment" t="Include">
+                    <e p="AppDomain.cs" t="Include" />
+                    <e p="CLRRedirections.cs" t="Include" />
+                    <e p="CrossBindingAdaptor.cs" t="Include" />
+                    <e p="DelegateManager.cs" t="Include" />
+                    <e p="InvocationContext.cs" t="Include" />
+                    <e p="ValueTypeBinder.cs" t="Include" />
+                  </e>
+                  <e p="Extensions.cs" t="Include" />
+                  <e p="Intepreter" t="Include">
+                    <e p="DelegateAdapter.cs" t="Include" />
+                    <e p="ILIntepreter.cs" t="Include" />
+                    <e p="ILRuntimeException.cs" t="Include" />
+                    <e p="ILTypeInstance.cs" t="Include" />
+                    <e p="OpCodes" t="Include">
+                      <e p="OpCode.cs" t="Include" />
+                      <e p="OpCodeEnum.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Stack" t="Include">
+                    <e p="RuntimeStack.cs" t="Include" />
+                    <e p="StackFrame.cs" t="Include" />
+                    <e p="StackObject.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Mono.Cecil" t="Include">
+                <e p="Mono" t="Include">
+                  <e p="Disposable.cs" t="Include" />
+                  <e p="Empty.cs" t="Include" />
+                  <e p="Type.cs" t="Include" />
+                </e>
+                <e p="Mono.Cecil" t="Include">
+                  <e p="ArrayType.cs" t="Include" />
+                  <e p="AssemblyDefinition.cs" t="Include" />
+                  <e p="AssemblyFlags.cs" t="Include" />
+                  <e p="AssemblyHashAlgorithm.cs" t="Include" />
+                  <e p="AssemblyLinkedResource.cs" t="Include" />
+                  <e p="AssemblyNameDefinition.cs" t="Include" />
+                  <e p="AssemblyNameReference.cs" t="Include" />
+                  <e p="AssemblyReader.cs" t="Include" />
+                  <e p="AssemblyWriter.cs" t="Include" />
+                  <e p="BaseAssemblyResolver.cs" t="Include" />
+                  <e p="CallSite.cs" t="Include" />
+                  <e p="CustomAttribute.cs" t="Include" />
+                  <e p="DefaultAssemblyResolver.cs" t="Include" />
+                  <e p="EmbeddedResource.cs" t="Include" />
+                  <e p="EventAttributes.cs" t="Include" />
+                  <e p="EventDefinition.cs" t="Include" />
+                  <e p="EventReference.cs" t="Include" />
+                  <e p="ExportedType.cs" t="Include" />
+                  <e p="FieldAttributes.cs" t="Include" />
+                  <e p="FieldDefinition.cs" t="Include" />
+                  <e p="FieldReference.cs" t="Include" />
+                  <e p="FileAttributes.cs" t="Include" />
+                  <e p="FunctionPointerType.cs" t="Include" />
+                  <e p="GenericInstanceMethod.cs" t="Include" />
+                  <e p="GenericInstanceType.cs" t="Include" />
+                  <e p="GenericParameter.cs" t="Include" />
+                  <e p="GenericParameterAttributes.cs" t="Include" />
+                  <e p="IConstantProvider.cs" t="Include" />
+                  <e p="ICustomAttributeProvider.cs" t="Include" />
+                  <e p="IGenericInstance.cs" t="Include" />
+                  <e p="IGenericParameterProvider.cs" t="Include" />
+                  <e p="IMarshalInfoProvider.cs" t="Include" />
+                  <e p="IMemberDefinition.cs" t="Include" />
+                  <e p="IMetadataScope.cs" t="Include" />
+                  <e p="IMetadataTokenProvider.cs" t="Include" />
+                  <e p="IMethodSignature.cs" t="Include" />
+                  <e p="Import.cs" t="Include" />
+                  <e p="LinkedResource.cs" t="Include" />
+                  <e p="ManifestResourceAttributes.cs" t="Include" />
+                  <e p="MarshalInfo.cs" t="Include" />
+                  <e p="MemberDefinitionCollection.cs" t="Include" />
+                  <e p="MemberReference.cs" t="Include" />
+                  <e p="MetadataResolver.cs" t="Include" />
+                  <e p="MetadataSystem.cs" t="Include" />
+                  <e p="MethodAttributes.cs" t="Include" />
+                  <e p="MethodCallingConvention.cs" t="Include" />
+                  <e p="MethodDefinition.cs" t="Include" />
+                  <e p="MethodImplAttributes.cs" t="Include" />
+                  <e p="MethodReference.cs" t="Include" />
+                  <e p="MethodReturnType.cs" t="Include" />
+                  <e p="MethodSemanticsAttributes.cs" t="Include" />
+                  <e p="MethodSpecification.cs" t="Include" />
+                  <e p="Modifiers.cs" t="Include" />
+                  <e p="ModuleDefinition.cs" t="Include" />
+                  <e p="ModuleKind.cs" t="Include" />
+                  <e p="ModuleReference.cs" t="Include" />
+                  <e p="NativeType.cs" t="Include" />
+                  <e p="ParameterAttributes.cs" t="Include" />
+                  <e p="ParameterDefinition.cs" t="Include" />
+                  <e p="ParameterDefinitionCollection.cs" t="Include" />
+                  <e p="ParameterReference.cs" t="Include" />
+                  <e p="PinnedType.cs" t="Include" />
+                  <e p="PInvokeAttributes.cs" t="Include" />
+                  <e p="PInvokeInfo.cs" t="Include" />
+                  <e p="PointerType.cs" t="Include" />
+                  <e p="PropertyAttributes.cs" t="Include" />
+                  <e p="PropertyDefinition.cs" t="Include" />
+                  <e p="PropertyReference.cs" t="Include" />
+                  <e p="ReferenceType.cs" t="Include" />
+                  <e p="Resource.cs" t="Include" />
+                  <e p="SecurityDeclaration.cs" t="Include" />
+                  <e p="SentinelType.cs" t="Include" />
+                  <e p="TargetRuntime.cs" t="Include" />
+                  <e p="Treatments.cs" t="Include" />
+                  <e p="TypeAttributes.cs" t="Include" />
+                  <e p="TypeDefinition.cs" t="Include" />
+                  <e p="TypeDefinitionCollection.cs" t="Include" />
+                  <e p="TypeParser.cs" t="Include" />
+                  <e p="TypeReference.cs" t="Include" />
+                  <e p="TypeSpecification.cs" t="Include" />
+                  <e p="TypeSystem.cs" t="Include" />
+                  <e p="VariantType.cs" t="Include" />
+                  <e p="WindowsRuntimeProjections.cs" t="Include" />
+                </e>
+                <e p="Mono.Cecil.Cil" t="Include">
+                  <e p="Code.cs" t="Include" />
+                  <e p="CodeReader.cs" t="Include" />
+                  <e p="CodeWriter.cs" t="Include" />
+                  <e p="Document.cs" t="Include" />
+                  <e p="ExceptionHandler.cs" t="Include" />
+                  <e p="ILProcessor.cs" t="Include" />
+                  <e p="Instruction.cs" t="Include" />
+                  <e p="MethodBody.cs" t="Include" />
+                  <e p="OpCode.cs" t="Include" />
+                  <e p="OpCodes.cs" t="Include" />
+                  <e p="PortablePdb.cs" t="Include" />
+                  <e p="SequencePoint.cs" t="Include" />
+                  <e p="Symbols.cs" t="Include" />
+                  <e p="VariableDefinition.cs" t="Include" />
+                  <e p="VariableReference.cs" t="Include" />
+                </e>
+                <e p="Mono.Cecil.Metadata" t="Include">
+                  <e p="BlobHeap.cs" t="Include" />
+                  <e p="Buffers.cs" t="Include" />
+                  <e p="CodedIndex.cs" t="Include" />
+                  <e p="ElementType.cs" t="Include" />
+                  <e p="GuidHeap.cs" t="Include" />
+                  <e p="Heap.cs" t="Include" />
+                  <e p="MetadataToken.cs" t="Include" />
+                  <e p="PdbHeap.cs" t="Include" />
+                  <e p="Row.cs" t="Include" />
+                  <e p="StringHeap.cs" t="Include" />
+                  <e p="TableHeap.cs" t="Include" />
+                  <e p="TokenType.cs" t="Include" />
+                  <e p="UserStringHeap.cs" t="Include" />
+                  <e p="Utilities.cs" t="Include" />
+                </e>
+                <e p="Mono.Cecil.PE" t="Include">
+                  <e p="BinaryStreamReader.cs" t="Include" />
+                  <e p="BinaryStreamWriter.cs" t="Include" />
+                  <e p="ByteBuffer.cs" t="Include" />
+                  <e p="ByteBufferEqualityComparer.cs" t="Include" />
+                  <e p="DataDirectory.cs" t="Include" />
+                  <e p="Image.cs" t="Include" />
+                  <e p="ImageReader.cs" t="Include" />
+                  <e p="ImageWriter.cs" t="Include" />
+                  <e p="Section.cs" t="Include" />
+                  <e p="TextMap.cs" t="Include" />
+                </e>
+                <e p="Mono.Collections.Generic" t="Include">
+                  <e p="Collection.cs" t="Include" />
+                  <e p="ReadOnlyCollection.cs" t="Include" />
+                </e>
+                <e p="Mono.Security.Cryptography" t="Include">
+                  <e p="CryptoConvert.cs" t="Include" />
+                  <e p="CryptoService.cs" t="Include" />
+                </e>
+                <e p="symbols" t="Include">
+                  <e p="mdb" t="Include">
+                    <e p="Mono.Cecil.Mdb" t="Include">
+                      <e p="MdbReader.cs" t="Include" />
+                      <e p="MdbWriter.cs" t="Include" />
+                    </e>
+                    <e p="Mono.CompilerServices.SymbolWriter" t="Include">
+                      <e p="MonoSymbolFile.cs" t="Include" />
+                      <e p="MonoSymbolTable.cs" t="Include" />
+                      <e p="MonoSymbolWriter.cs" t="Include" />
+                      <e p="SourceMethodBuilder.cs" t="Include" />
+                      <e p="SymbolWriterImpl.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="pdb" t="Include">
+                    <e p="Microsoft.Cci.Pdb" t="Include">
+                      <e p="BitAccess.cs" t="Include" />
+                      <e p="BitSet.cs" t="Include" />
+                      <e p="CvInfo.cs" t="Include" />
+                      <e p="DataStream.cs" t="Include" />
+                      <e p="DbiDbgHdr.cs" t="Include" />
+                      <e p="DbiHeader.cs" t="Include" />
+                      <e p="DbiModuleInfo.cs" t="Include" />
+                      <e p="DbiSecCon.cs" t="Include" />
+                      <e p="Interfaces.cs" t="Include" />
+                      <e p="IntHashTable.cs" t="Include" />
+                      <e p="MsfDirectory.cs" t="Include" />
+                      <e p="PdbConstant.cs" t="Include" />
+                      <e p="PdbDebugException.cs" t="Include" />
+                      <e p="PdbException.cs" t="Include" />
+                      <e p="PdbFile.cs" t="Include" />
+                      <e p="PdbFileHeader.cs" t="Include" />
+                      <e p="PdbFunction.cs" t="Include" />
+                      <e p="PdbLine.cs" t="Include" />
+                      <e p="PdbLines.cs" t="Include" />
+                      <e p="PdbReader.cs" t="Include" />
+                      <e p="PdbScope.cs" t="Include" />
+                      <e p="PdbSlot.cs" t="Include" />
+                      <e p="PdbSource.cs" t="Include" />
+                      <e p="PdbTokenLine.cs" t="Include" />
+                      <e p="SourceLocationProvider.cs" t="Include" />
+                    </e>
+                    <e p="Mono.Cecil.Pdb" t="Include">
+                      <e p="ISymUnmanagedDocumentWriter.cs" t="Include" />
+                      <e p="ISymUnmanagedWriter2.cs" t="Include" />
+                      <e p="ModuleMetadata.cs" t="Include" />
+                      <e p="NativePdbReader.cs" t="Include" />
+                      <e p="NativePdbWriter.cs" t="Include" />
+                      <e p="PdbHelper.cs" t="Include" />
+                      <e p="SymDocumentWriter.cs" t="Include" />
+                      <e p="SymWriter.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="ThirdPlugins.Runtime.asmdef" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Editor.csproj" t="IncludeRecursive" />
+      <e p="Hotfix.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Runtime.csproj" t="IncludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="ThirdPlugins.Editor.csproj" t="IncludeRecursive" />
+      <e p="ThirdPlugins.Runtime.csproj" t="IncludeRecursive" />
+      <e p="XIL.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

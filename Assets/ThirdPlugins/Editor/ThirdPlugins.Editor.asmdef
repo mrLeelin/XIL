@@ -1,0 +1,17 @@
+{
+    "name": "ThirdPlugins.Editor",
+    "references": [
+        "GUID:0b048176e2230324897e8a545ae287eb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
